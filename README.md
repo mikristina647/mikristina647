@@ -28,7 +28,7 @@ Email: kristina.mikhailenko1gmail.com
 
 1.[Работы по ручному тестированию](https://github.com/mikristina647/-Manual-testing-works.git)
 
-2.[Работы по тест-дизайну и тест-аналитике](ссылка)
+2.[Работы по тест-дизайну и тест-аналитике](https://github.com/mikristina647/test-design.git)
 
 3.[Работы по веб-технологиям](ссылка)
 
