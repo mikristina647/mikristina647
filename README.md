@@ -13,10 +13,11 @@ Email: kristina.mikhailenko1gmail.com
 
 
 **Навыки работы с :**
-* Jira
-* Testuff
-* Git
-* Github
+* Jira 
+* Testuff 
+* Git   
+* Github 
+* VScode 
 
 **Курсы**
 
