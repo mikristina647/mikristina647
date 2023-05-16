@@ -4,7 +4,7 @@ Email: kristina.mikhailenko1gmail.com
 
 
 
-**Привет, меня зовут Михайленко Кристина**  [Мое резюме](https://github.com/mikristina647)
+**Привет, меня зовут Михайленко Кристина**  [Мое резюме](https://drive.google.com/file/d/1qbQ_NFIrVTQZK_8b5uivV4veby5tvJVe/view?usp=share_link)
 
 
 
