@@ -1,6 +1,6 @@
 Email: kristina.mikhailenko1gmail.com
 
-Telegram: https://t.me/k_mikhailenko
+[Telegram](https://t.me/k_mikhailenko)
 
 
 
