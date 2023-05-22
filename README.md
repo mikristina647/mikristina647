@@ -39,4 +39,16 @@ Email: kristina.mikhailenko1gmail.com
 
 
 
+**Сертификаты**
 
+* [Ручное тестирование](https://drive.google.com/file/d/1A0YpP2Kq12qZa2wQ7Rs-iD6O2zGVBINs/view?usp=share_link)
+
+* [Контроль версий](https://drive.google.com/file/d/1ZRST67DkxuDbbzZGqQF7GkisYW7TurYa/view?usp=share_link)
+
+* [Тест-дизайн и тест-аналитика](https://drive.google.com/file/d/1Kil5dL11zkKebYjnCIyewfg09JQZZjMI/view?usp=share_link)
+
+* [Веб-технологии](https://drive.google.com/file/d/1O_A0hEttYpEuN-LjJOBCQiMrn7gFU9fg/view?usp=share_link)
+
+* [Гибкие методологии](https://drive.google.com/file/d/1iBXW6eByfE2grkf8ByDE4uz2vaZMn1Y6/view?usp=share_link)
+
+* [Курс на Stepik](https://drive.google.com/file/d/1OdFNlFOyz4D99ep8qwszxMAdTiwDRji-/view?usp=share_link)
