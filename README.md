@@ -29,13 +29,13 @@ Email: kristina.mikhailenko1gmail.com
 
 **Портфолио:**
 
-1.[Работы по ручному тестированию](https://github.com/mikristina647/-Manual-testing-works.git)
+1. [Работы по ручному тестированию](https://github.com/mikristina647/-Manual-testing-works.git)
 
-2.[Работы по тест-дизайну и тест-аналитике](https://github.com/mikristina647/test-design.git)
+2. [Работы по тест-дизайну и тест-аналитике](https://github.com/mikristina647/test-design.git)
 
-3.[Работы по веб-технологиям](ссылка)
+3. [Работы по веб-технологиям](ссылка)
 
-4.[Работы по гибким методологиям](ссылка)
+4. [Работы по гибким методологиям](ссылка)
 
 
 
