@@ -43,7 +43,7 @@ Email: kristina.mikhailenko1gmail.com
 
 * [Ручное тестирование](https://drive.google.com/file/d/1A0YpP2Kq12qZa2wQ7Rs-iD6O2zGVBINs/view?usp=share_link)
 
-* [Контроль версий](https://drive.google.com/file/d/1ZRST67DkxuDbbzZGqQF7GkisYW7TurYa/view?usp=share_link)
+* [Контроль версий](https://drive.google.com/file/d/1L2JD8rl9AVq5YIQpr-39M3D599KhibyC/view?usp=share_link)
 
 * [Тест-дизайн и тест-аналитика](https://drive.google.com/file/d/1Kil5dL11zkKebYjnCIyewfg09JQZZjMI/view?usp=share_link)
 
