@@ -1,4 +1,4 @@
-Email: kristina.mikhailenko1gmail.com
+[Email](kristina.mikhailenko1gmail.com)
 
 [Telegram](https://t.me/k_mikhailenko)
 
@@ -6,9 +6,9 @@ Email: kristina.mikhailenko1gmail.com
 
 **Привет, меня зовут Михайленко Кристина**  [Мое резюме](https://drive.google.com/file/d/1qbQ_NFIrVTQZK_8b5uivV4veby5tvJVe/view?usp=share_link)
 
+**Составляю:**
 
-
-* Составляю чек-листы и тест-кейсы 
+* Чек-листы и тест-кейсы 
 * Баг-репорты 
 
 
@@ -19,7 +19,7 @@ Email: kristina.mikhailenko1gmail.com
 * Github 
 * VScode 
 
-**Курсы**
+**Курсы :**
 
 * Тестирование ПО для начинающих (Stepik)
 
@@ -39,7 +39,7 @@ Email: kristina.mikhailenko1gmail.com
 
 
 
-**Сертификаты**
+**Сертификаты :**
 
 * [Ручное тестирование](https://drive.google.com/file/d/1A0YpP2Kq12qZa2wQ7Rs-iD6O2zGVBINs/view?usp=share_link)
 
