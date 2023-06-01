@@ -21,9 +21,9 @@ Email: kristina.mikhailenko1gmail.com
 
 **Курсы :**
 
-* Тестирование ПО для начинающих (Stepik)
+* Тестирование ПО для начинающих (Stepik) [Сертификат](https://drive.google.com/file/d/1OdFNlFOyz4D99ep8qwszxMAdTiwDRji-/view?usp=share_link)
 
-* "Быстрый старт.Тестировщик.Цифровые профессии" в Geekbrains
+* "Быстрый старт.Тестировщик.Цифровые профессии" в Geekbrains   [Диплом](https://drive.google.com/file/d/1yrbtmGFkORqZ4uAdiXNzrYUvzD5-VZim/view?usp=sharing)
 
 
 
